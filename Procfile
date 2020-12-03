@@ -1,2 +1,2 @@
 ps:scale worker=1
-worker: python3 avatarical.py
+worker: python3 prestige.py
